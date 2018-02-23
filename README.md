@@ -29,17 +29,17 @@
 
 **1. 登录自己的QQ邮箱，前往**
 
- - 设置
- - 账户
- - POP3/IMAP/SMTP/Exchange/CardDAV/CalDAV服务
+- 设置
+- 账户
+- POP3/IMAP/SMTP/Exchange/CardDAV/CalDAV服务
 
 ![](img/001.png)
 
 ----
 **2. 开启**
 
- - POP3/SMTP服务
- - IMAP/SMTP服务
+- POP3/SMTP服务
+- IMAP/SMTP服务
 
 ![](img/002.png)
 
@@ -54,14 +54,15 @@
 ## 三、 设置Thunderbird
 
 **1. 打开Thunderbird界面**
+
 在桌面左上角的搜索里输入Thunderbird或者Terminal中输入Thunderbird即可打开图形化界面。
 
 ![](img/004.png)
 
 ---
 **2. 创建账户**
- - 本地文件夹 - 账户 - 创建新账户 - 电子邮件
- - 跳过并使用已有的电子邮箱
+- 本地文件夹 - 账户 - 创建新账户 - 电子邮件
+- 跳过并使用已有的电子邮箱
 
 ![](img/005.png)
 
