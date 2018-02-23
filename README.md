@@ -21,6 +21,7 @@
 > sudo  apt-get install thunderbird
 
 **如果要从官网下载最新版手动安装：**
+
 [Thunderbird](https://www.thunderbird.net/zh-CN/)
 
 ** **
@@ -28,17 +29,17 @@
 
 **1. 登录自己的QQ邮箱，前往**
 
-> - 设置
-> - 账户
-> - POP3/IMAP/SMTP/Exchange/CardDAV/CalDAV服务
+ - 设置
+ - 账户
+ - POP3/IMAP/SMTP/Exchange/CardDAV/CalDAV服务
 
 ![](img/001.png)
 
 ----
 **2. 开启**
 
-> - POP3/SMTP服务
-> - IMAP/SMTP服务
+ - POP3/SMTP服务
+ - IMAP/SMTP服务
 
 ![](img/002.png)
 
@@ -59,22 +60,27 @@
 
 ---
 **2. 创建账户**
-> - 本地文件夹 - 账户 - 创建新账户 - 电子邮件
-> - 跳过并使用已有的电子邮箱
+ - 本地文件夹 - 账户 - 创建新账户 - 电子邮件
+ - 跳过并使用已有的电子邮箱
 
 ![](img/005.png)
 
 ---
 **3. 设置账户**
+
 名字可以随意，将作为发件人显示在邮件中。
+
 电子邮件即为你的QQ邮箱地址。
+
 密码输入刚才QQ邮箱中的授权码，如果失效了，请重新生成。
+
 点击“继续”。
 
 ![](img/006.png)
 
 ---
 **4. 验证**
+
 点击完成将验证信息，成功后便可以开始使用Thunderbird来管理你的QQ邮箱了。
 
 ** **
